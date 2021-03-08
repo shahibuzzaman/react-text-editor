@@ -1,5 +1,6 @@
 import React from "react";
 import TextEditor from "./components/TextEditor";
+import "../node_modules/react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 
 const App = () => {
   return (
